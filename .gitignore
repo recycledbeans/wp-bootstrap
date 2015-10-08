@@ -13,3 +13,4 @@ wp-content/upgrade/*
 wp-content/old-uploads
 vendor
 wp
+composer.lock

@@ -31,17 +31,10 @@ define('DB_CHARSET', 'utf8');
 /** The Database Collate type. Don't change this if in doubt. */
 define('DB_COLLATE', '');
 
-define( 'WP_POST_REVISIONS', 0);
+define('WP_POST_REVISIONS', 1);
 
 define('WP_CONTENT_DIR', dirname(__FILE__) . '/wp-content');
 define('WP_CONTENT_URL', '/wp-content');
-
-/**
-*
-* Admin password:
-* Username: apcadmin
-* Password: qBWpzEA0MjifpBj
-*/
 
 /**#@+
  * Authentication Unique Keys and Salts.

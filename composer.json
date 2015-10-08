@@ -3,26 +3,13 @@
     {
       "type": "composer",
       "url": "http://wpackagist.org"
-    },
-    {
-      "type": "vcs",
-      "url": "https://mattportside@bitbucket.org/portside/advanced-custom-fields-pro.git"
-    },
-    {
-      "type": "vcs",
-      "url": "https://mattportside@bitbucket.org/portside/wp-bootstrap.git"
     }
   ],
   "require": {
     "php": ">=5.4",
-    "johnpbloch/wordpress": "4.2.2",
-    "portside/wp-bootstrap": "dev-master",
-    "portside/advanced-custom-fields-pro": "dev-master",
-    "wpackagist-plugin/custom-permalinks": "0.7.20",
-    "wpackagist-plugin/velvet-blues-update-urls": "3.2.3",
-    "wpackagist-plugin/relative-image-urls": "2.0",
-    "wpackagist-plugin/wp-google-maps": "6.1.7",
-    "wpackagist-plugin/add-category-to-pages": "1.0"
+    "johnpbloch/wordpress": "4.*",
+    "wpackagist-plugin/velvet-blues-update-urls": "3.*",
+    "wpackagist-plugin/relative-image-urls": "2.*"
   },
   "extra": {
     "wordpress-install-dir": "wp"
