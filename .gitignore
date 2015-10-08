@@ -1,0 +1,15 @@
+# Created by .ignore support plugin (hsz.mobi)
+.sass-cache
+.idea/*
+.idea
+.idea/workspace.xml
+bower_components
+node_modules
+wp-content/themes/alterna/sass/_sprite.scss
+wp-content/themes/alterna/img/sprite.png
+wp-content/themes/alterna/css/*
+wp-content/plugins/*
+wp-content/upgrade/*
+wp-content/old-uploads
+vendor
+wp

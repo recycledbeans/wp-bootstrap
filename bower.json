@@ -1,0 +1,20 @@
+{
+  "name": "wp-bootstrap",
+  "version": "0.0.0",
+  "authors": [
+    "Matt Watson <matt@portsidedesign.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass-official": "~3.3.1",
+    "simple-icons": "danleech/simple-icons"
+  }
+}
