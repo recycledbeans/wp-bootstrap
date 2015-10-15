@@ -14,11 +14,6 @@
  * @package WordPress
  */
 
- /*
- * Testing changes here
- * More Changes 
- */
-
 define('WP_HOME', 'http://' . $_SERVER['SERVER_NAME']);
 define('WP_SITEURL', 'http://' . $_SERVER['SERVER_NAME'] . "/wp");
 
